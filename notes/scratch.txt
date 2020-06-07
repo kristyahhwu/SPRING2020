@@ -1,0 +1,26 @@
+/*file -> new model -> add diagram
+
+users
+    -data
+        -id
+        -username
+        -email
+        -password
+        -usertype
+        -active
+        -email vertification
+        -created
+
+posts
+    -data  
+        -id
+        -title
+        -description
+        -photopath - links,uses paths instead of store
+        -thumbnail
+        -active
+        -created
+        -fk_userid //foreign keys, pointers
+*/
+
+//UUID for large company
